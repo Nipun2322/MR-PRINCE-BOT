@@ -12,15 +12,15 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["94788861571", "𝙼𝚁 𝙽𝙸𝙿𝚄𝙽", true],
   [''], 
   [''] 
 ]
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+//💌global.pairingNumber = "94788861571" //put your bot number here💌
+global.mods = ['94788861571'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -36,8 +36,8 @@ global.lolkeysapi = ['GataDios']
 //CONFIG VARS. Do not touch them⚠️
 
   global.autoread process.env.AUTOREAD !== 'false',
-  global.statusView: process.env.STATUSVIEW !== 'false',
-  global.autoreaction: process.env.AutoReaction !== 'false',
+  global.statusView: process.env.STATUSVIEW !== 'true',
+  global.autoreaction: process.env.AutoReaction !== 'true',
 
 //💌------------------------------------------💌
 
@@ -122,16 +122,16 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/94788861571' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = '𝙼𝚁 𝙽𝙸𝙿𝚄𝙽 𝚂𝙷𝙰𝙼𝙸𝙺𝙰'
+global.princebot = '🛡️𝙼𝚁 𝙽𝙸𝙿𝚄𝙽 𝚂𝙷𝙰𝙼𝙸𝙺𝙰🛡️'
+global.packname = '𝙽𝙸𝙿𝚄𝙽♥️' 
+global.author = '𝙽𝙸𝙿𝚄𝙽♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
